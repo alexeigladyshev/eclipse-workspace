@@ -1,0 +1,16 @@
+PHONE NUMBER: 445-323-3374
+PHONE NUMBER: 232-232-3333
+SOCIAL SECURITY NUMBER: xxx-xx-2589
+LOGIN ID: 14
+PHONE NUMBER: 443-223-0098
+<<INVALID INPUT:>> Phone: asdfkljsdfasf
+<<INVALID INPUT:>> Number: asdfjdfjdklsfweio
+<<INVALID INPUT:>> sdfjksdf
+LOGIN ID: adsf
+LOGIN ID: Your loginID is zero characters after removing special characters. Please use another loginID
+LOGIN ID: <<Invalid loginID>>
+SOCIAL SECURITY NUMBER: xxx-xx-0009
+PHONE NUMBER: 443-334-4456
+LOGIN ID: sadf
+SOCIAL SECURITY NUMBER: xxx-xx-4531
+<<INVALID INPUT:>> this isn't going to work

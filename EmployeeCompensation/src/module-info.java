@@ -1,0 +1,4 @@
+
+module EmployeeCompensation {
+	exports employeeclasses;
+}

@@ -1,0 +1,5 @@
+
+module EmployeeCompTestClass {
+
+	requires EmployeeCompensation;
+}
